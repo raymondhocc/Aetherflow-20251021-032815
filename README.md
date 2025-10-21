@@ -1,6 +1,6 @@
 # AetherFlow: Real-time Data Ingestion & Analytics Platform
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Aetherflow-20251021-032815)
 
 AetherFlow is a cutting-edge real-time data ingestion and pipeline management platform designed to facilitate seamless synchronization of data from diverse enterprise sources, starting with AS400 systems, into a modern lakehouse architecture. This platform is meticulously engineered to prepare and optimize data for advanced analytics, particularly for consumption by Large Language Models (LLMs) to unlock deep business insights. The application provides a visually stunning, intuitive, and highly responsive user interface that mirrors the sophistication and comprehensive functionality of leading data integration tools like GlueSync. Users can effortlessly configure data sources and destinations, design complex data pipelines with transformation logic, monitor real-time data flow metrics, and gain actionable insights into data quality and pipeline performance. The core components include a dynamic Dashboard for overall health and activity, dedicated sections for managing Data Sources, Data Destinations, and Pipelines, and a robust Monitoring suite for real-time visibility and alerting. AetherFlow prioritizes user experience, visual elegance, and robust functionality to deliver a truly exceptional data management solution.
 
@@ -122,7 +122,7 @@ AetherFlow is designed to be deployed on Cloudflare Workers.
 
 Alternatively, you can deploy directly using the Cloudflare button:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Aetherflow-20251021-032815)
 
 ## Project Structure
 
